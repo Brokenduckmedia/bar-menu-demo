@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     background-color: #000;
@@ -21,7 +22,4 @@ body {
     border: none;
     padding: 10px 20px;
     cursor: pointer;
-}
-.menu-item button:hover {
-    background-color: #0056b3;
 }
